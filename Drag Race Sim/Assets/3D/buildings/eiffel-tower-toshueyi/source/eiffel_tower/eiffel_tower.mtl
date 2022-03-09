@@ -1,0 +1,225 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.349020 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/Google_Earth_Snapshot1.jpg
+
+newmtl top_middle
+Ka 0.000000 0.000000 0.000000
+Kd 0.521569 0.478431 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/top_middle.jpg
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.407843 0.380392 0.345098
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/_Gray6_.jpg
+
+newmtl profile
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.486275 0.423529
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/profile.jpg
+
+newmtl frame
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.105882 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame.png
+
+newmtl frame1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.105882 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame1_.png
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.286275 0.247059
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_2.png
+
+newmtl frame2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.105882 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2_.png
+
+newmtl frame3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.105882 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame3_.png
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.317647 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_1.png
+
+newmtl frame2
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2.png
+
+newmtl frame2_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2_1_.png
+
+newmtl frame2_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2_2_.png
+
+newmtl frame2_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2_3_.png
+
+newmtl frame2_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/frame2_4_.png
+
+newmtl M_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4.png
+
+newmtl M_4_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_1_.png
+
+newmtl top
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.435294 0.427451
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/top.jpg
+
+newmtl M_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.192157 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_3.png
+
+newmtl arch
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.729412 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/arch.png
+
+newmtl _Charcoal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.501961 0.349020
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/_Charcoal_.jpg
+
+newmtl M_4_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_2_.png
+
+newmtl M_4_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_3_.png
+
+newmtl M_4_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_4_.png
+
+newmtl M_4_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_5_.png
+
+newmtl M_4_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_6_.png
+
+newmtl M_4_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_7_.png
+
+newmtl M_4_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_8_.png
+
+newmtl M_4_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.105882 0.094118 0.082353
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_4_9_.png
+
+newmtl middle
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.360784 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/middle.png
+
+newmtl M_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.192157 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/M_6.png
+
+newmtl basestone
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.505882 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/basestone.jpg
+
+newmtl internal
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.035294 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/internal.png
+
+newmtl entrance
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.368627 0.356863
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/entrance.jpg
+
+newmtl window
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.321569 0.301961
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/window.jpg
+
+newmtl Google_Earth_Snapshot1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.349020 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd eiffel_tower/Google_Earth_Snapshot1_1_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+

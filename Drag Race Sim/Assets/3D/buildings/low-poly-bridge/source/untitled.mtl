@@ -1,0 +1,36 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 3
+
+newmtl Brick
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Blender\\Textures\\ruin_wall_02_0.png
+refl Blender\\Textures\\ruin_wall_02_0.png
+
+newmtl Brick-Concrete
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Blender\\Textures\\Pavement_Brick_001_COLOR.jpg
+
+newmtl White-Brick
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Blender\\Textures\\c227e0fb72bdda68af0b5502b981acb9.jpg
