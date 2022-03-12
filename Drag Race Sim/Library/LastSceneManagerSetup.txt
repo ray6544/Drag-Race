@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/env01.unity
+- path: Assets/ARPG Effects/Demo/ARPGDemo12.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
